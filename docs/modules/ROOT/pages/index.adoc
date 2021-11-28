@@ -1,3 +1,0 @@
-= Hi, This is my first page
-
-Here is some test content for this page.
