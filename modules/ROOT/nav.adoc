@@ -1,1 +1,10 @@
-xref:index.adoc[Click here]
+= xref:index.adoc[Master section]
+
+* Point 1
+* Point 2
+
+== xref:general-description-test.adoc[Master subsection]
+
+* Point 1
+* Point 2
+
