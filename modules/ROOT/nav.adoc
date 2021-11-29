@@ -1,1 +1,1 @@
-xref:test.adoc[Click here]
+xref:index.adoc[Click here]
