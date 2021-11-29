@@ -9,7 +9,7 @@ site:
 content:
   sources:
   - url: https://github.com/antontuhai/documentation.git
-    branches: master
+    branches: HEAD
     start_path: documentation
 ui:
   bundle:
