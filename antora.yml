@@ -1,5 +1,5 @@
-name: component-test
-title: Component Test
+name: test-welcome-page
+title: Test Welcome Page
 version: dev
 nav:
 - modules/ROOT/nav.adoc
