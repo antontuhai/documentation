@@ -1,3 +1,1 @@
-xref:index.adoc[Index]
-
 xref:general-description-test.adoc[]
