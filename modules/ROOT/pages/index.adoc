@@ -1,3 +1,13 @@
 = Index file
 
-This is the index file.
+_This is the index page_.
+
+NOTE: *[yellow]##Note!##* This page is the first thing you see on this documentation site.
+
+== Subsection 1
+
+Some content of the subsection 1.
+
+== Subsection 2
+
+Some content of the subsection 2.
