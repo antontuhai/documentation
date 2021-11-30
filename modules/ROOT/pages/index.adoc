@@ -2,6 +2,8 @@
 
 _This is the index page_.
 
+image:ROOT:index-santa-logo.jpg[]
+
 NOTE: This page is the first thing you see on this documentation site.
 
 == Section 1
