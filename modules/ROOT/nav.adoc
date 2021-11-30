@@ -3,3 +3,6 @@
 
 * Admin instructions
 include::admin:partial$nav.adoc[]
+
+* User instructions
+include::user:partial$nav.adoc[]
