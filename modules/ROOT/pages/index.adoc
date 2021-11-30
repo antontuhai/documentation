@@ -4,10 +4,14 @@ _This is the index page_.
 
 NOTE: *[yellow]##Note!##* This page is the first thing you see on this documentation site.
 
-== Subsection 1
+== Section 1
 
-Some content of the subsection 1.
+Some content of the section 1.
 
-== Subsection 2
+TIP: [green]##TIP!## Refer to the xref:ROOT:general-overview.adoc[] section for more details.
 
-Some content of the subsection 2.
+== Section 2
+
+Some content of the section 2.
+
+TIP: [green]##TIP!## Refer to the xref:admin:test.adoc[] section for more details.

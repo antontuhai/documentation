@@ -1,1 +1,5 @@
-xref:general-description-test.adoc[]
+* General instructions
+** xref:ROOT:general-overview.adoc[]
+
+* Admin instructions
+include::admin:partial$nav.adoc[]
