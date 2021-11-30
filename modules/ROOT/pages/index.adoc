@@ -15,3 +15,7 @@ TIP: Refer to the xref:ROOT:general-overview.adoc[] section for more details.
 Some content of the section 2.
 
 TIP: Refer to the xref:admin:test.adoc[] section for more details.
+
+== Section 3
+
+Some content of the section 3.
