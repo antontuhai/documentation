@@ -1,3 +1,4 @@
-* General overview
-** xref:ROOT:general-description-test.adoc[General description]
+xref:index.adoc[Index page]
+
+xref:ROOT:general-description-test.adoc[General description]
 
