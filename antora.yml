@@ -1,5 +1,5 @@
 name: welcome-page
 title: Welcome Page
-version: dev
+version: '1.0'
 nav:
 - modules/ROOT/nav.adoc
