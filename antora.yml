@@ -1,5 +1,5 @@
-name: test-welcome-page
-title: Test Welcome Page
+name: welcome-page
+title: Welcome Page
 version: dev
 nav:
 - modules/ROOT/nav.adoc
