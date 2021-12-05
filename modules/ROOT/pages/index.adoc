@@ -21,3 +21,7 @@ TIP: Refer to the xref:admin:test.adoc[] section for more details.
 == Section 3
 
 Some content of the section 3.
+
+== Section 4. Vitka Tuhai
+
+Витька Тугай пришёл к нам в гости.
