@@ -25,3 +25,11 @@ Some content of the section 3.
 == Section 4. Vitka Tuhai
 
 Витька Тугай пришёл к нам в гости.
+
+== Section 5. Attachments
+
+This section comprises a set of attachments added for this course.
+
+Here is one of them:
+
+. xref:attachment$test-file-1.txt[test-file-1]
