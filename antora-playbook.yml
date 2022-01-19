@@ -1,5 +1,5 @@
 site:
-  title: Local Anton's site
+  title: Test documentation site
   url: http://127.0.0.1:8080
   start_page: welcome-page::index.adoc
 content:

@@ -1,5 +1,5 @@
 name: welcome-page
-title: Welcome page
+title: Головна сторінка
 version: '1.0'
 nav:
 - modules/ROOT/nav.adoc
