@@ -32,4 +32,4 @@ This section comprises a set of attachments added for this course.
 
 Here is one of them:
 
-. xref:attachment$test-file-1.txt[test-file-1]
+xref:attachment$test-file-1.txt[test-file-1]
