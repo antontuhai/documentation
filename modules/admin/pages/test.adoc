@@ -1,9 +1,3 @@
 = Test component description
 
-Some content.
-
-This **Admin** section comprises a set of attachments added for this course.
-
-Here is one of them:
-
-. xref:attachment$test-file-1.txt[test-file-1.txt]
+Some content. Nothing special.
