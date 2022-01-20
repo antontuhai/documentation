@@ -30,4 +30,4 @@ Some content of the section 3.
 
 This section comprises a set of attachments added for this course.
 
-See one of them named link:{attachmentsdir}/test-project.zip[test-project.zip] to try it out!
+Download the link:{attachmentsdir}/test-project.zip[test-project.zip] archive and use it as the need required.
