@@ -31,3 +31,11 @@ Some content of the section 3.
 This section comprises a set of attachments added for this course.
 
 Download the link:{attachmentsdir}/test-project.zip[test-project.zip] archive and use it as the need required.
+
+== Section 6. Video Tutorials
+
+This section contains references to some videos hosted on YouTube or Vimeo platforms.
+
+=== Test subsection 1. Try me by UFO
+
+video::0u5joA0strw[youtube]
