@@ -30,6 +30,4 @@ Some content of the section 3.
 
 This section comprises a set of attachments added for this course.
 
-Here is one of them:
-
-xref:attachment$test-file-1.txt[test-file-1]
+See one of them named xref:attachment$../attachments/test-file-1.txt[test-file-1] to try it out!
