@@ -30,4 +30,4 @@ Some content of the section 3.
 
 This section comprises a set of attachments added for this course.
 
-See one of them named xref:attachment$test-project.zip[test-project] to try it out!
+See one of them named xref::attachment$test-project.zip[test-project] to try it out!
