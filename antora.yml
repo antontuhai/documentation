@@ -1,5 +1,5 @@
 name: welcome-page
-title: Головна сторінка
+title: Pet project
 version: '1.0'
 nav:
 - modules/ROOT/nav.adoc

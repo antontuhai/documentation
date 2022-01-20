@@ -1,5 +1,5 @@
 site:
-  title: Test documentation site
+  title: My Docs Site
   url: http://127.0.0.1:8080
   start_page: welcome-page::index.adoc
 content:
