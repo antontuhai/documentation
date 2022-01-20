@@ -32,7 +32,7 @@ This section comprises a set of attachments added for this course.
 
 Download the link:{attachmentsdir}/test-project.zip[test-project.zip] archive and use it as the need required.
 
-Otherwise, look at the link:{attachmentsdir}/test-bp.bpmn[test-bp.bpmn] file.
+Otherwise, look at the link:{attachmentsdir}/test-project/task-1/test-bp.bpmn[test-bp.bpmn] file.
 
 == Section 6. Video Tutorials
 
