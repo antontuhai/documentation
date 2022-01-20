@@ -18,15 +18,9 @@ Some content of the section 2.
 
 TIP: Refer to the xref:admin:test.adoc[] section for more details.
 
-== Section 3
-
-Some content of the section 3.
-
-== Section 4. Vitka Tuhai
-
 Витька Тугай пришёл к нам в гости.
 
-== Section 5. Attachments
+== Section 3. Attachments
 
 This section comprises a set of attachments added for this course.
 
@@ -34,10 +28,10 @@ Download the link:{attachmentsdir}/test-project.zip[test-project.zip] archive an
 
 Otherwise, look at the link:{attachmentsdir}/test-project/task-1/test-bp.bpmn[test-bp.bpmn] file.
 
-== Section 6. Video Tutorials
+== Section 4. Video Tutorials
 
 This section contains references to some videos hosted on YouTube or Vimeo platforms.
 
-=== Test subsection 1. Try me by UFO
+=== Test subsection. Try me by UFO
 
 video::0u5joA0strw[youtube]
