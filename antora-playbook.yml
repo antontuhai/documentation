@@ -1,7 +1,7 @@
 site:
   title: Documentation project
   url: http://127.0.0.1:8080
-  start_page: cat-project::index.adoc
+  start_page: pet-project::index.adoc
 content:
   sources:
     - url: https://github.com/antontuhai/documentation.git
