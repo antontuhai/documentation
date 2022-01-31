@@ -1,5 +1,5 @@
-name: at
-title: AT
-version: '1.1'
+name: pet-project
+title: Pet project
+version: "1.1"
 nav:
 - modules/ROOT/nav.adoc
