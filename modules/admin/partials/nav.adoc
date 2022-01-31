@@ -1,1 +1,2 @@
 ** xref:admin:test.adoc[Admin's test page]
+** xref:admin:test-2.adoc[]
