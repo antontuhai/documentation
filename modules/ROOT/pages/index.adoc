@@ -36,8 +36,12 @@ This section contains references to some videos hosted on YouTube or Vimeo platf
 
 video::0u5joA0strw[youtube]
 
-== Section 5. Test changes for release 1.1
+== Section 5. Test changes for the latest release 1.1
 
 This section comprises a test content for the current development release cycle.
 
 Blah blah blah!
+
+== Section 6. Test changes for release the latest release 1.1
+
+Some test feature description.
