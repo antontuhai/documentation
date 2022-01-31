@@ -1,11 +1,11 @@
 site:
   title: AT
   url: http://127.0.0.1:8080
-  start_page: introduction::index.adoc
+  start_page: at::index.adoc
 content:
   sources:
     - url: https://github.com/antontuhai/documentation.git
-      branches: [1.0, master]
+      branches: [master, 1.0]
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
