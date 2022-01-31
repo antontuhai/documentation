@@ -45,3 +45,11 @@ Blah blah blah!
 == Section 6. Test changes for release the latest release 1.1
 
 Some test feature description.
+
+== Section 7. Test changes for release the latest release 1.2
+
+Some test feature description. Blah Blah.
+
+== Section 8. Test changes for release the latest release 1.2
+
+Some test feature description. Blah Blah.
