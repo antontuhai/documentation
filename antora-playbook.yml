@@ -1,7 +1,7 @@
 site:
-  title: My Docs Site
+  title: AT
   url: http://127.0.0.1:8080
-  start_page: welcome-page::index.adoc
+  start_page: introduction::index.adoc
 content:
   sources:
     - url: https://github.com/antontuhai/documentation.git
