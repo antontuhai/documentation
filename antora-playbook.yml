@@ -5,7 +5,7 @@ site:
 content:
   sources:
     - url: https://github.com/antontuhai/documentation.git
-      branches: ["release-1.0", "master"]
+      branches: ["release-1.0", "release-1.1"]
 ui:
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
