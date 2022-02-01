@@ -18,8 +18,6 @@ Some content of the section 2.
 
 TIP: Refer to the xref:admin:test.adoc[] section for more details.
 
-Витька Тугай пришёл к нам в гости.
-
 == Section 3. Attachments
 
 This section comprises a set of attachments added for this course.

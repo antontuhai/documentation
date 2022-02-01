@@ -1,3 +1,0 @@
-= Test component description
-
-Some content. Nothing special.
