@@ -1,3 +1,0 @@
-= Test 2 page for the latest release
-
-Here is some test content.

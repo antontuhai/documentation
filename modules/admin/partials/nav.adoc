@@ -1,2 +1,5 @@
-** xref:admin:test.adoc[Admin's test page]
-** xref:admin:test-2.adoc[]
+** xref:backup-restore/index.adoc[Резервне копіювання та відновлення]
+** xref:registry-deployment-management/index.adoc[Розгортання та керування реєстром]
+*** xref:registry-deployment-management/registry-deployment.adoc[Розгортання екземпляра реєстру]
+*** xref:registry-deployment-management/registry-view.adoc[Перегляд та редагування реєстру]
+*** xref:registry-deployment-management/registry-delete.adoc[Видалення екземпляра реєстру]
