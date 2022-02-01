@@ -1,4 +1,4 @@
-= Index file
+= Головна сторінка
 
 _This is the index page_.
 
