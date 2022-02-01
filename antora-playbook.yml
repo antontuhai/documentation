@@ -1,5 +1,5 @@
 site:
-  title: Платформа
+  title: Платформа для розгортання та супроводження державних електронних реєстрів
   url: http://127.0.0.1:8080
   start_page: platform::index.adoc
 content:

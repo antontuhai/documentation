@@ -5,7 +5,6 @@
 ** Створення користувачів та авторизація
 // Included TOC from admin/partials/nav.adoc
 include::admin:partial$nav.adoc[]
-** xref:admin:backup-restore/index.adoc[Резервне копіювання та відновлення]
 *** Центральні компоненти
 *** Екземпляр реєстру
 *** Відновлення кластера після зміни IP-адрес master-нод
