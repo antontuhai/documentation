@@ -1,0 +1,7 @@
+= What's new in version 1.2?
+
+The latest released version comprises a set of new features, namely:
+
+* One;
+* Two;
+* Three

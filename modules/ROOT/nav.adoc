@@ -1,3 +1,5 @@
+* xref:release-notes-v1.2.adoc[What's new in version 1.2?]
+
 * General instructions
 ** xref:ROOT:general-overview.adoc[]
 
