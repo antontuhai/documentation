@@ -1,0 +1,9 @@
+= What's new in version 1.0?
+
+Here is the list of what have been done during the current development cycle:
+
+* One
+* Two
+* Three
+* Four
+* Five
