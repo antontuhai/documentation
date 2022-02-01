@@ -1,5 +1,8 @@
 * xref:release-notes-v1.2.adoc[What's new in version 1.2?]
 
+
+
+////
 * General instructions
 ** xref:ROOT:general-overview.adoc[]
 
@@ -8,3 +11,4 @@ include::admin:partial$nav.adoc[]
 
 * User instructions
 include::user:partial$nav.adoc[]
+////
