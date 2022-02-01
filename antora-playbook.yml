@@ -1,7 +1,7 @@
 site:
-  title: Documentation project
+  title: Платформа
   url: http://127.0.0.1:8080
-  start_page: pet-project::index.adoc
+  start_page: platform::index.adoc
 content:
   sources:
     - url: https://github.com/antontuhai/documentation.git
