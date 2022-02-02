@@ -3,8 +3,8 @@
 *** xref:admin:installation/platform-admin-deployment.adoc[Розгортання Платформи в цільовому ЦОД на базі приватної хмари vSphere]
 +
 // Створення користувачів та авторизація
-** xref:user-management-auth/index.adoc[Створення користувачів та авторизація]
-*** xref:user-management-auth/keycloak-create-users.adoc[Створення користувачів та надання їм прав доступу]
+** xref:admin:user-management-auth/index.adoc[Створення користувачів та авторизація]
+*** xref:admin:user-management-auth/keycloak-create-users.adoc[Створення користувачів та надання їм прав доступу]
 +
 // Розгортання та керування реєстром
 ** xref:admin:registry-management/index.adoc[Розгортання та керування реєстром]
