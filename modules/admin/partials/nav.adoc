@@ -1,4 +1,4 @@
-** xref:admin:registry-management/index.adoc[Розгортання та керування реєстром]
+** xref:registry-management/index.adoc[Розгортання та керування реєстром]
 *** xref:admin:registry-management/registry-deployment.adoc[Розгортання екземпляра реєстру]
 *** xref:admin:registry-management/registry-view.adoc[Перегляд та редагування реєстру]
 *** xref:admin:registry-management/registry-delete.adoc[Видалення екземпляра реєстру]
