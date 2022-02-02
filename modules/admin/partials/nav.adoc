@@ -1,6 +1,6 @@
 * Адміністраторам Платформи
-** xref:installation/index.adoc[Встановлення та налаштування]
-*** xref:installation/platform-admin-deployment.adoc[Розгортання Платформи в цільовому ЦОД на базі приватної хмари vSphere]
+** xref:admin:installation/index.adoc[Встановлення та налаштування]
+*** xref:admin:installation/platform-admin-deployment.adoc[Розгортання Платформи в цільовому ЦОД на базі приватної хмари vSphere]
 +
 // Створення користувачів та авторизація
 ** xref:user-management-auth/index.adoc[Створення користувачів та авторизація]
