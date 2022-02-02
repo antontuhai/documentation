@@ -1,4 +1,6 @@
 * Адміністраторам Платформи
++
+// Встановлення та налаштування
 ** xref:admin:installation/index.adoc[Встановлення та налаштування]
 *** xref:admin:installation/platform-admin-deployment.adoc[Розгортання Платформи в цільовому ЦОД на базі приватної хмари vSphere]
 +
