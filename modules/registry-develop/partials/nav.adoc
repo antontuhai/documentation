@@ -1,41 +1,32 @@
 * Команді розробки та супроводу реєстру
 +
-// --------------- Адміністраторам реєстру ---------------
+// Адміністраторам реєстру
 ** xref:registry-develop:registry-admin/index.adoc[Адміністраторам реєстру]
-+
 // Розгортання регламенту реєстру
 *** xref:registry-develop:registry-admin/regulations-deploy/index.adoc[Розгортання регламенту реєстру]
-+
 // Адміністрування бізнес-процесів
 *** xref:registry-develop:registry-admin/bp-administration.adoc[Адміністрування бізнес-процесів]
-+
 // Налаштування реєстру
 *** xref:registry-develop:registry-admin/regulation-settings.adoc[Управління налаштуваннями реєстру]
-+
 // Інтеграція із зовнішніми реєстрами
 *** xref:registry-develop:registry-admin/external-integration/index.adoc[Інтеграція із зовнішніми реєстрами]
 +
-// --------------- Моделювальникам даних ---------------
+// Моделювальникам даних
 ** xref:registry-develop:data-modeling/index.adoc[Моделювальникам даних]
-+
 // Логічна модель
 *** xref:registry-develop:data-modeling/data/logical-model/index.adoc[Створення логічної моделі даних]
 // Фізична модель
 *** xref:registry-develop:data-modeling/data/physical-model/index.adoc[Створення фізичної моделі даних]
 // Первинне завантаження даних
-+
 *** xref:registry-develop:data-modeling/initial-load/index.adoc[Первинне завантаження даних]
 *** xref:registry-develop:data-modeling/reports/index.adoc[Моделювання звітів]
 +
-// --------------- Моделювальникам бізнес-процесів ---------------
+// Моделювальникам бізнес-процесів
 ** xref:registry-develop:bp-modeling/index.adoc[Моделювальникам бізнес-процесів]
-+
 // Моделювання бізнес-процесів та бізнес-правил
 *** xref:registry-develop:bp-modeling/bp/index.adoc[Моделювання бізнес-процесів та бізнес-правил]
-+
 // Моделювання бізнес-процесів та бізнес-правил
 *** xref:registry-develop:bp-modeling/forms/index.adoc[Моделювання форм до бізнес-процесів]
-+
 // Інтеграція із зовнішніми реєстрами
 *** Виклик зовнішніх реєстрів
 **** xref:registry-develop:bp-modeling/external-integration/api-call/connectors-external-registry.adoc[Типові розширення-конектори до інших реєстрів]
