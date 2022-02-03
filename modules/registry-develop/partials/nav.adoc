@@ -1,5 +1,4 @@
-* Команді супроводу та розробки реєстру
-
+* Команді розробки та супроводу реєстру
 +
 // --------------- Адміністраторам реєстру ---------------
 ** xref:registry-develop:registry-admin/index.adoc[Адміністраторам реєстру]
@@ -12,11 +11,9 @@
 +
 // Налаштування реєстру
 *** xref:registry-develop:registry-admin/regulation-settings.adoc[Управління налаштуваннями реєстру]
-
 +
 // Інтеграція із зовнішніми реєстрами
 *** xref:registry-develop:registry-admin/external-integration/index.adoc[Інтеграція із зовнішніми реєстрами]
-
 +
 // --------------- Моделювальникам даних ---------------
 ** xref:registry-develop:data-modeling/index.adoc[Моделювальникам даних]
@@ -29,7 +26,6 @@
 +
 *** xref:registry-develop:data-modeling/initial-load/index.adoc[Первинне завантаження даних]
 *** xref:registry-develop:data-modeling/reports/index.adoc[Моделювання звітів]
-
 +
 // --------------- Моделювальникам бізнес-процесів ---------------
 ** xref:registry-develop:bp-modeling/index.adoc[Моделювальникам бізнес-процесів]
