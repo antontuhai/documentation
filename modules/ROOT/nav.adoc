@@ -2,11 +2,12 @@
 
 // RELEASE NOTES
 * xref:release-notes:release-notes-v1.2.adoc[Що нового у версії 1.2?]
-+
 // АДМІНІСТРАТОРАМ ПЛАТФОРМИ
 include::admin:partial$nav.adoc[]
+
 // КОМАНДІ РОЗРОБКИ ТА СУПРОВОДУ РЕЄСТРУ
-* Команді розробки та супроводу реєстру
+include::registry-develop:partial$nav.adoc[]
+
 // КОРИСТУВАЧАМ
 * Користувачам
 include::user:partial$nav.adoc[]
