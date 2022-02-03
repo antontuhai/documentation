@@ -1,7 +1,8 @@
 * Команді розробки та супроводу реєстру
-+
 // Адміністраторам реєстру
 ** xref:registry-develop:registry-admin/index.adoc[Адміністраторам реєстру]
+
+////
 // Розгортання регламенту реєстру
 *** xref:registry-develop:registry-admin/regulations-deploy/index.adoc[Розгортання регламенту реєстру]
 // Адміністрування бізнес-процесів
@@ -10,6 +11,7 @@
 *** xref:registry-develop:registry-admin/regulation-settings.adoc[Управління налаштуваннями реєстру]
 // Інтеграція із зовнішніми реєстрами
 *** xref:registry-develop:registry-admin/external-integration/index.adoc[Інтеграція із зовнішніми реєстрами]
+////
 
 ////
 +
