@@ -11,8 +11,9 @@ include::registry-develop:partial$nav.adoc[]
 // КОРИСТУВАЧАМ
 * Користувачам
 include::user:partial$nav.adoc[]
+
 // ДОКУМЕНТАЦІЯ ДЛЯ РОЗРОБНИКІВ ТА АРХІТЕКТОРІВ
-* Технічна документація
+include::tech:partial$nav.adoc[]
 // ПИТАННЯ ТА ВІДПОВІДІ
 * xref:faq:faq.adoc[Питання та відповіді]
 
