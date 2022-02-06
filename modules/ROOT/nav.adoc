@@ -16,7 +16,7 @@ include::user:partial$nav.adoc[]
 // ** Підсистеми
 include::tech:partial$nav.adoc[]
 ** Компоненти
-include::latest@component-a:data-model:partial$nav.adoc[]
+include::component-a:data-model:partial$nav.adoc[]
 // ПИТАННЯ ТА ВІДПОВІДІ
 * xref:faq:faq.adoc[Питання та відповіді]
 
