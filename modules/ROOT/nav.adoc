@@ -14,6 +14,8 @@ include::user:partial$nav.adoc[]
 
 // ДОКУМЕНТАЦІЯ ДЛЯ РОЗРОБНИКІВ ТА АРХІТЕКТОРІВ
 include::tech:partial$nav.adoc[]
+** Компоненти
+include::component-a:data-model:partials$nav.adoc[]
 // ПИТАННЯ ТА ВІДПОВІДІ
 * xref:faq:faq.adoc[Питання та відповіді]
 
