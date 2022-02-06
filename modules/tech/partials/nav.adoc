@@ -3,4 +3,4 @@
 *** Фабрика даних
 **** xref:tech:datafactory/rbac.adoc[Розмежування прав доступу до даних]
 ** Компоненти
-include::data-model:partials$nav.adoc[]
+include::latest@component-a:data-model:partials$nav.adoc[]
