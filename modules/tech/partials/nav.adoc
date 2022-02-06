@@ -1,0 +1,6 @@
+* Технічна документація
+** Підсистеми
+*** Фабрика даних
+**** xref:tech:datafactory/rbac.adoc[Розмежування прав доступу до даних]
+** Компоненти
+include::component-a:partials$nav.adoc[]
