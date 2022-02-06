@@ -13,9 +13,10 @@ include::registry-develop:partial$nav.adoc[]
 include::user:partial$nav.adoc[]
 
 // ДОКУМЕНТАЦІЯ ДЛЯ РОЗРОБНИКІВ ТА АРХІТЕКТОРІВ
+// ** Підсистеми
 include::tech:partial$nav.adoc[]
 ** Компоненти
-include::component-a:data-model:partials$nav.adoc[]
+include::latest@component-a:data-model:partials$nav.adoc[]
 // ПИТАННЯ ТА ВІДПОВІДІ
 * xref:faq:faq.adoc[Питання та відповіді]
 
