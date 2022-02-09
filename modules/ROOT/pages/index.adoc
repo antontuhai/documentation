@@ -16,8 +16,6 @@ TIP: Refer to the xref:ROOT:general-overview.adoc[] section for more details.
 
 Some content of the section 2.
 
-TIP: Refer to the xref:admin:test.adoc[] section for more details.
-
 == Section 3. Attachments
 
 This section comprises a set of attachments added for this course.
@@ -31,7 +29,7 @@ Otherwise, look at the link:{attachmentsdir}/test-project/task-1/test-bp.bpmn[te
 This section contains references to some videos hosted on YouTube or Vimeo platforms.
 
 === Test subsection. Try me by UFO
-
+[height=640, width=480]
 video::0u5joA0strw[youtube]
 
 == Section 5. Test changes for the latest release 1.1
