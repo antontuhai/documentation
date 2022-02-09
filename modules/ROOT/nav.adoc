@@ -1,7 +1,7 @@
 // GLOBAL NAVIGATION
 
 // RELEASE NOTES
-* xref:release-notes:release-notes-v1.3.adoc[Що нового у версії 1.2?]
+* xref:release-notes:release-notes-v1.3.adoc[Що нового у версії 1.3?]
 // АДМІНІСТРАТОРАМ ПЛАТФОРМИ
 include::admin:partial$nav.adoc[]
 
