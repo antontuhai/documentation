@@ -22,7 +22,7 @@ include::tech:partial$nav.adoc[]
 **** xref:tech:datafactory/rbac.adoc[Розмежування прав доступу до даних]
 ** Компоненти
 *** Компонент-C
-include::component-c:data-model:partial$nav.adoc[]
+include::platform:data-model:partial$nav.adoc[]
 
 // ПИТАННЯ ТА ВІДПОВІДІ
 * xref:faq:faq.adoc[Питання та відповіді]
