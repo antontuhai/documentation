@@ -3,4 +3,3 @@ name: platform
 version: "1.3"
 nav:
 - modules/ROOT/nav.adoc
-- modules:data-model:partial$nav.adoc
