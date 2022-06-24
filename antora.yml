@@ -1,5 +1,5 @@
-name: pet-project
-title: Pet project
+name: platform
+title: Платформа
 version: "1.0"
 nav:
 - modules/ROOT/nav.adoc
