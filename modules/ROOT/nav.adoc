@@ -21,10 +21,8 @@ include::tech:partial$nav.adoc[]
 *** Фабрика даних
 **** xref:tech:datafactory/rbac.adoc[Розмежування прав доступу до даних]
 ** Компоненти
-*** Компонент-C
-**** xref:1.3@platform-1:data-model:test.adoc[Побудова аналітичних даних]
-**** xref:1.3@platform-1:data-model:test-1.adoc[Створення інформаційних панелей]
-//include::platform:data-model:partial$nav.adoc[]
+*** Компонент-A
+include::data-model:partial$nav.adoc[]
 
 // ПИТАННЯ ТА ВІДПОВІДІ
 * xref:faq:faq.adoc[Питання та відповіді]
