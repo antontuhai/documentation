@@ -38,7 +38,7 @@ This section comprises a test content for the current development release cycle.
 
 Blah blah blah!
 
-== Section 6. Test changes for release the latest release 1.1
+== Section 6. Test changes for the latest release 1.1
 
 Some test feature description.
 
@@ -46,6 +46,14 @@ Some test feature description.
 
 Some test feature description. Blah Blah.
 
-== Section 8. Test changes for release the latest release 1.2
+== Section 8. Test changes for the latest release 1.2
 
 Some test feature description. Blah Blah.
+
+== Section 9. Test changes for the latest release 1.4
+
+Testing.
+
+== Section 10. Test changes for the latest release 1.4
+
+Testing.
