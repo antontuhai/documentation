@@ -57,3 +57,7 @@ Testing.
 == Section 10. Test changes for the latest release 1.4
 
 Testing.
+
+== Section 11. Test changes for the latest release 1.5
+
+Testing.
